@@ -1,3 +1,4 @@
 {
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "git.defaultCloneDirectory": "https://github.com/Fall2018-PROG1700-703/w0235012-MyraA.git"
 }
