@@ -1,33 +1,32 @@
 #Stock Purchase
 costPerShare=25.625
-numberOfShares=400
+numberOfShares=400.0
 markdown=costPerShare*numberOfShares
-print(markdown)
+print("Markdown Value = {0}".format(float(markdown)))
 
 #Break-Even Point
-FixedCost=5000
-PricePerUnit=8
-CostPerUnit=6
+FixedCost=5000.0
+PricePerUnit=8.0
+CostPerUnit=6.0
 BreakEvenPoint=FixedCost/(PricePerUnit-CostPerUnit)
-print(BreakEvenPoint)
+print("BreakEvenPoint = {0}".format(float(BreakEvenPoint)))
 
 #Saving Account
-Balance=100
+Balance=100.0
 Balance=Balance*1.05+100
 Balance=Balance*1.05+100
 Balance=Balance*1.05
 Balance=round(Balance,2)
-print(Balance)
+print("Balance = ", Balance)
 
 #Profit From Stock
-PurchasePrice=10
-SellingPrice=15
+PurchasePrice=10.0
+SellingPrice=15.0
 PercentProfit=100*(SellingPrice-PurchasePrice)
-print(PercentProfit)
+print("Profit = " + str(PercentProfit))
 
 #Projectile MOtion
-InitialHeight=5
-InitialVelocity=50#FPS
-#Height=InitialHeight*InitialVelocity
-Height=-16*3e2+50*3+5
-print(Height)
+InitialHeight=5.0
+InitialVelocity=50.0#FPS
+Height=-16*(3*3)+(50*3)+5
+print("Final Height = {0}".format(Height))
