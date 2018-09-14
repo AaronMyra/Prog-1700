@@ -21,7 +21,7 @@ def main ():
    
     #Extra: Cost
     costOfGallon= input("What is the cost of paint per gallon?")
-    total= float(costOfGallon)* gallonsOfPaint
+    #total= float(costOfGallon)* gallonsOfPaint (unnessary)  
     print ("total:", "$",total)
 
 main ()

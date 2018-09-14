@@ -10,5 +10,5 @@ def main():
     winPercent=(int(wins)/totalGames)*percentage
         
     #Output
-    print("The {0} have {1} wins and {2} loses, with a win percentage of {3:.4f}. ".format(hockeyTeam, wins, loses, winPercent))
+    print("The {0} have {1} wins and {2} loses, with a win percentage of {3:.4f}%. ".format(hockeyTeam, wins, loses, winPercent))
 main()

@@ -16,7 +16,7 @@ Balance=100.0
 Balance=Balance*1.05+100
 Balance=Balance*1.05+100
 Balance=Balance*1.05
-Balance=round(Balance,2)
+Balance=round(Balance + str(2))
 print("Balance = ", Balance)
 
 #Profit From Stock
@@ -25,7 +25,7 @@ SellingPrice=15.0
 PercentProfit=100*(SellingPrice-PurchasePrice)
 print("Profit = " + str(PercentProfit))
 
-#Projectile MOtion
+#Projectile Motion
 InitialHeight=5.0
 InitialVelocity=50.0#FPS
 Height=-16*(3*3)+(50*3)+5
