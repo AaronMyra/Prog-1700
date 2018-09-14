@@ -1,5 +1,4 @@
 def main():
-
      #INPUT - # form user
     print("Welcome To The Coffee Shop!")
     print("This program will calculate total cost based on how many cups of coffee you order!")
@@ -7,11 +6,10 @@ def main():
 
     #PROCESSING - Price * number of cups
     coffeePrice = 1.25
-    total = coffeePrice * float(numberOfCups)
-    taxRate = 1.15
+    total = coffeePrice * int(numberOfCups)
+
     #OUTPUT - Message to user, indicating total cost
     print("Cost before tax:  $",total)
-    taxedTotal = total * taxRate
+    taxedTotal = total * 1.15
     print("Cost after tax:  $",taxedTotal)
-
 main()
