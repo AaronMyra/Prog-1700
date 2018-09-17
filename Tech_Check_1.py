@@ -22,10 +22,10 @@ def main(): #<-- Don't change this line!
     finalBill= taxedBill + tipAmount
 
     #Output
-    print("Your original bill is: " + billAmount)
-    print("Tax of your bill is: {0:.2f}".format(taxOfBill))
-    print("Suggested tip amount is: {0:.2f}".format(tipAmount))
-    print("Final total with tax and tip is: {0:.2f}".format(finalBill))
+    print("Your original bill is: $" + billAmount)
+    print("Tax of your bill is: ${0:.2f}".format(taxOfBill))
+    print("Suggested tip amount is: ${0:.2f}".format(tipAmount))
+    print("Final total with tax and tip is: ${0:.2f}".format(finalBill))
 
 
     #Your code ends on the line above
