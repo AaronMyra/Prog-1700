@@ -1,0 +1,29 @@
+Assignment 1 - Pseudocode.
+
+    Program #1
+
+        1.Welcome the user to "Hipster's Vinyl Records."
+        2.Create variables for delivery charge ($15 per km), sales tax (%14).
+        3.Prompt the uses to enter the customers name, delivery distance, cost of records and assign them variables.
+        4. Calculate the delivery cost based on user input and delivery charge.
+        5.Calculate the cost of records based on user input and sales tax.
+        6.Calculate final cost by adding together the cost of records and the deliver cost.
+        7.Have program display the customers name, the delivery cost, cost of records, and the final cost.
+    
+    Program #2 
+
+        1.Welcome the user to the weekly loan calculator
+        2.Prompt the user to input the amount of the loan, the intrest rate, and the number of years in repayment
+            assign them to variables.
+        3.Calculate the value of an intermediate value and assign it a variable using the interest rate.
+        4.Using all the variables calculate the weekly payment
+        5.Display the weekly payment amount to the user.
+
+    Program #3
+
+        1.Introduce the program
+        2.Prompt the user to input the imperial values for tons, stones, pounds, and ounces.
+        3.Convert all the inputed values to ounces and assign a variable.
+        4.Using those values convert into metric tons, kilograms, grams and assign variables.
+        5.Display a summary and the metric values, with metric tons and kilograms as whole numbers 
+            and grams to one decimal place.

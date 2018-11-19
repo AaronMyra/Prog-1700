@@ -1,0 +1,16 @@
+Mad-Lib Pseudo Code
+
+Student Name: Aaron Myra
+Date: Nov 19/ 2018
+
+1. Initilize variables
+2. Open and read the story text file
+3. Open and read the choices .csv file
+4. Display the information in the choices csv 
+    file with phrase describing the word choice 
+    followed by the choices listed with letters from a to e
+5. After each each section of words is displayed allow for user input of letter
+6. Save the user word choices that corrispond to each letter to a list
+7. Replace the place holders in the story text file with the corrisponding selected words
+8. Display the altered story
+9. Impliment error handeling.

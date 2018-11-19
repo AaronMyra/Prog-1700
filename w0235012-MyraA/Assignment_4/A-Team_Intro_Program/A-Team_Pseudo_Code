@@ -1,0 +1,15 @@
+A-Team Program Pseudo Code
+
+Student Name:  Aaron Myra  
+Program Title:  The A-Team
+
+1. Initilize variables
+2. Open the A-Team intro file
+3. Read the A-Team intro file
+4. For each line add a line number to the beginning
+5. For each line determine the number of characters it contains
+6. If line contains more than 20 characters change line to all lower case
+7. If line contains less than 20 characters change line to all upper case
+8. Import random function and generate random number
+9. Omit the line in the A-Team into that matches the random number generated
+10. Output the original text followed by the altered text.

@@ -1,0 +1,27 @@
+Original Text
+----------------------
+
+In 1972 a crack commando unit was sent to prison 
+by a military court for a crime they didn't commit
+These men promptly escaped from a maximum security stockade
+to the Los Angeles underground. 
+Today still wanted by the government they survive as soldiers of fortune. 
+If you have a problem
+If no one else can help
+And if you can find them
+Maybe you can hire...
+The A-Team.
+
+Altered Text
+----------------------
+
+line 1: in 1972 a crack commando unit was sent to prison 
+line 2: by a military court for a crime they didn't commit
+line 3: these men promptly escaped from a maximum security stockade
+line 4: to the los angeles underground. 
+line 5: today still wanted by the government they survive as soldiers of fortune. 
+
+line 7: if no one else can help
+line 8: and if you can find them
+line 9: maybe you can hire...
+line 10: THE A-TEAM.
